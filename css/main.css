@@ -726,16 +726,18 @@ nav {
   background-size: 100% auto;
 }
 .logo-link {
-  color: #fe1f2a;
+  color: #ffa500;
   text-shadow: 5px 5px 2px rgba(0, 0, 0, 0);
+  font-size: 80px;
 }
 .tagline,
 .call-action-area .price {
-  color: #fff;
-  text-shadow: 2px 2px 1px rgba(0, 0, 0, 1);
+  color: #ffa500;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0);
 }
 .tagline {
-  font-weight: normal;
+  font-weight: bolder;
+  font-size: 30px;
 }
 .call-action-area .price {
   color: #fddd52;
@@ -776,8 +778,8 @@ nav {
    ABOUT
    ========================================================================== */
 .about {
-  border: 1px solid #e7e7e7;
-  background: #fff;
+  /*border: 1px solid #e7e7e7;*/
+  /*background: #e7e7e7;*/
   border-radius: 4px;
 }
 /* =============================================================================
