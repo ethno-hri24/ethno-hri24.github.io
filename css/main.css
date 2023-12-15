@@ -727,7 +727,7 @@ nav {
 }
 .logo-link {
   color: #fe1f2a;
-  text-shadow: 5px 5px 2px rgba(1, 1, 1, 1);
+  text-shadow: 5px 5px 2px rgba(0, 0, 0, 0);
 }
 .tagline,
 .call-action-area .price {
