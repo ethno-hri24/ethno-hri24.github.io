@@ -726,13 +726,13 @@ nav {
   background-size: 100% auto;
 }
 .logo-link {
-  color: #ffa500;
+  color: #000080;
   text-shadow: 5px 5px 2px rgba(0, 0, 0, 0);
   font-size: 80px;
 }
 .tagline,
 .call-action-area .price {
-  color: #ffa500;
+  color: #000080;
   text-shadow: 2px 2px 1px rgba(0, 0, 0, 0);
 }
 .tagline {
